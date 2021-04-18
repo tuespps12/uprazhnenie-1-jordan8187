@@ -32,6 +32,5 @@ Screen Resolution | 1280 x 800 |  Монитор Dell 21.5" E2216H E2216H-B 1920
 CPU | Intel® 6th Gen or newer CPU – or AMD Ryzen™ 1000 Series or newer CPU | Параметър 1 
 RAM | 8 GB of RAM | Параметър 2
 GPU | 2 GB of GPU VRAM | Параметър 3
-Disk | 8 GB of available hard-disk space for installation; additional free space required during installation (will not install on removable flash storage)
-Additional high-speed drive for media | Параметър 4
+Disk | 8 GB of available hard-disk space for installation; additional free space required during installation (will not install on removable flash storage)| Параметър 4
 Other | параметър 5 |  параметър 5 
