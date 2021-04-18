@@ -23,6 +23,7 @@ GPU | NVIDIA GeForce GTX 1050 or equivalent | Gainward GeForce GTX 1060 3GB
 Disk | 3.1 GB of storage space | Диск SEAGATE BarraCuda 1TB 7MM ST1000LM048, ST1000LM048
 OS | 64-bit Windows 7 SP1 |  Windows 10 Home
 Screen Resolution | 1280 x 800 |  Монитор Dell 21.5" E2216H E2216H-B 1920x1080
+С другите компоненти струва 1865лв.
 
 
 2. Adobe Premiere - бюджет 3000 лв. 
