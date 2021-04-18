@@ -21,7 +21,7 @@ CPU | Intel or AMD processor with 64-bit support, 2 GHz or faster processor | П
 RAM |  2 GB | 8GB DDR4 3600MHz XPG SPECTRIX D60G
 GPU | NVIDIA GeForce GTX 1050 or equivalent | Gainward GeForce GTX 1060 3GB
 Disk | 3.1 GB of storage space | Диск SEAGATE BarraCuda 1TB 7MM ST1000LM048, ST1000LM048
-OS | 64-bit Windows 7 SP1 |  Windows 10 Pro
+OS | 64-bit Windows 7 SP1 |  Windows 10 Home
 Screen Resolution | 1280 x 800 |  Монитор Dell 21.5" E2216H E2216H-B 1920x1080
 
 
@@ -29,8 +29,9 @@ Screen Resolution | 1280 x 800 |  Монитор Dell 21.5" E2216H E2216H-B 1920
 
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
-CPU | Параметър 1 | Параметър 1 
-RAM | Параметър 2 | Параметър 2
-GPU | Параметър 3 | Параметър 3
-Disk | Параметър 4 | Параметър 4
+CPU | Intel® 6th Gen or newer CPU – or AMD Ryzen™ 1000 Series or newer CPU | Параметър 1 
+RAM | 8 GB of RAM | Параметър 2
+GPU | 2 GB of GPU VRAM | Параметър 3
+Disk | 8 GB of available hard-disk space for installation; additional free space required during installation (will not install on removable flash storage)
+Additional high-speed drive for media | Параметър 4
 Other | параметър 5 |  параметър 5 
