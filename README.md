@@ -20,9 +20,9 @@
 CPU | Intel or AMD processor with 64-bit support, 2 GHz or faster processor | Процесор Intel Core i5-8600K, 3.6GHZ, 9MB, BOX 1151, BX80684I58600K S
 RAM |  2 GB | Памет 16GB (2x 8GB) DDR4 3200MHz, Corsair Vengeance RGB Pro, CMW16GX4M2C3200C16, 1.2V
 GPU | NVIDIA GeForce GTX 1050 or equivalent | Gainward GeForce GTX 1070 Phoenix "GS" 8GB GDDR5
-Disk | 3.1 GB of storage space | Параметър 4
+Disk | 3.1 GB of storage space | Диск SEAGATE BarraCuda 1TB 7MM ST1000LM048, ST1000LM048
 OS | 64-bit Windows 7 SP1 |  Windows 10 Pro
-Screen Resolution | 1280 x 800 |  параметър 5 
+Screen Resolution | 1280 x 800 |  Монитор Dell 21.5" E2216H E2216H-B 1920x1080
 
 
 2. Adobe Premiere - бюджет 3000 лв. 
