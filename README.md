@@ -18,7 +18,7 @@
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
 CPU | Intel or AMD processor with 64-bit support, 2 GHz or faster processor | Процесор Intel Core i5-8600K, 3.6GHZ, 9MB, BOX 1151, BX80684I58600K S
-RAM |  2 GB | Памет 16GB (2x 8GB) DDR4 3200MHz, Corsair Vengeance RGB Pro, CMW16GX4M2C3200C16, 1.2V
+RAM |  2 GB | 8GB DDR4 3600MHz XPG SPECTRIX D60G
 GPU | NVIDIA GeForce GTX 1050 or equivalent | Gainward GeForce GTX 1060 3GB
 Disk | 3.1 GB of storage space | Диск SEAGATE BarraCuda 1TB 7MM ST1000LM048, ST1000LM048
 OS | 64-bit Windows 7 SP1 |  Windows 10 Pro
