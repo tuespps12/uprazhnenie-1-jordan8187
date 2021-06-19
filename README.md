@@ -30,8 +30,12 @@ Screen Resolution | 1280 x 800 |  Монитор Dell 21.5" E2216H E2216H-B 1920
 
 Параметър | Изискване | Конфигурация
 ------------ | -------------| -------------
-CPU | Intel® 6th Gen or newer CPU – or AMD Ryzen™ 1000 Series or newer CPU | Параметър 1 
-RAM | 8 GB of RAM | Параметър 2
-GPU | 2 GB of GPU VRAM | Параметър 3
-Disk | 8 GB of available hard-disk space for installation; additional free space required during installation (will not install on removable flash storage)| Параметър 4
-Other | параметър 5 |  параметър 5 
+CPU | Intel® 6th Gen or newer CPU – or AMD Ryzen™ 1000 Series or newer CPU | Intel Core i7-10700 - 629лв.
+RAM | 8 GB of RAM | Kingston HyperX Fury RGB 8GB 3200MHz DDR4 CL16 - 444лв.
+GPU | 2 GB of GPU VRAM | PNY NVIDIA Quadro P1000 V2 LowProfile DP - 809лв
+Disk | 8 GB of available hard-disk space for installation; additional free space required during installation (will not install on removable flash storage)| SanDisk SSD Plus 480GB - 118лв.
+Other | параметър 5 |  Windows 10 Home x64 - 229лв.
+DeepCool компютърна ATX - D-SHIELD V2 US -72 лв
+Gigabyte A320M-S2H 1.1 - 124лв.
+DeepCool DE600 V2 - 70лв.
+Монитор 24" Samsung F24T350F - 229лв.
